@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-HTMLPage1",
+      "appliesTo": "HTMLPage1.html",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "задача-week",
+      "appliesTo": "week.html",
+      "type": "launch"
+    }
+  ]
+}
